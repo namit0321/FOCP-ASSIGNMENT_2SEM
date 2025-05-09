@@ -1567,7 +1567,10 @@ int main(){
     
 
     Student* s1 = new Student("15/09/2024", "Computer Science", 3.8);
-    s1->setPersonName("Ajayyyy");
+    s1->setPersonName("XYZ
+
+
+");
     s1->setPersonID(12345);
     s1->setPersonAge(18);
     s1->setPersonContactInfo(9817256938);
